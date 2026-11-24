@@ -1,2 +1,2 @@
 # Assignments
-This repository is for my university assignments (Introduction to Programming)
+This repository contains my university assignments for the Introduction to Programming course.
